@@ -11,4 +11,9 @@ dependencies:
   - isort
   - black
   - pytest
-  - pandas=2.0.0
+  - pandas==2.0.0
+  - pip
+  - pip:
+    - duckdb==0.7.1
+    - polars
+  
