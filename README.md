@@ -1,15 +1,9 @@
 # pydata-examples
 
-Notebook examples with the PyData stack, including Pandas, NumPy, and matplotlib.
+Notebook examples with the PyData libraries such as pandas, Datafusion, DuckDB, and Polars.
 
 ## Setup
 
-Create an environment with the dependencies: `conda env create -f envs/pydata-standard.yml`
-
-Activate the environment: `conda activate pydata-standard`
-
-Start JupyterLab: `jupyter lab`
+There are environment files that you can use to create conda environments with all the dependencies for this project.
 
 
-
-# pydata-examples

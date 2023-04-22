@@ -16,4 +16,4 @@ dependencies:
   - pip:
     - duckdb==0.7.1
     - polars
-  
+    - datafusion
