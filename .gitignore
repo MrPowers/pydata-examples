@@ -22,3 +22,5 @@ derby.log
 .ipynb_checkpoints
 
 .jupyter/
+
+.history
