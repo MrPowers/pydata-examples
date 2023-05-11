@@ -1,4 +1,4 @@
-name: pandas-200
+name: pandas-201
 channels:
   - conda-forge
   - defaults
@@ -11,9 +11,9 @@ dependencies:
   - isort
   - black
   - pytest
-  - pandas==2.0.0
+  - pandas==2.0.1
   - pip
   - pip:
     - duckdb==0.7.1
-    - polars
-    - datafusion
+    - polars==0.17.12
+    - datafusion==23.0.0
