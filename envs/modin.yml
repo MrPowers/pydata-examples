@@ -12,5 +12,6 @@ dependencies:
   - black
   - pytest
   - pip
-  - modin-dask
+  - pip:
+    - modin[ray]
   
