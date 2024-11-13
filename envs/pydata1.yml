@@ -1,0 +1,19 @@
+name: pydata1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - ipykernel
+  - jupyterlab
+  - jupyterlab_code_formatter
+  - isort
+  - black
+  - pandas
+  - polars
+  - datafusion
+  - python-duckdb
+  - pip
+  - pip:
+    - deltalake
+    - getdaft
