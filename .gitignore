@@ -24,3 +24,5 @@ derby.log
 .jupyter/
 
 .history
+
+datafusion/yellow_trip_data.parquet
